@@ -18,7 +18,7 @@ body {
     min-height: 350px; /*TODO: get column's div to grow in the y direction*/
     border-right: 2px solid gray;
     float: left;
-    overflow: hidden;
+    overflow-y: auto;
 }
 
 .card-list {
